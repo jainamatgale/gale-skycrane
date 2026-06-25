@@ -19,6 +19,8 @@ pnpm-debug.log*
 *.local
 .env
 .env.*
+github.txt
+**/github.txt
 
 # Editor / OS
 .vscode/*
